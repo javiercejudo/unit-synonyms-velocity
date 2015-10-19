@@ -1,6 +1,6 @@
 {
   "name": "unit-synonyms-velocity",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Velocity units synonyms",
   "main": "src/index.js",
   "scripts": {
